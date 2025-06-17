@@ -93,12 +93,4 @@ You can add screenshots or GIFs of the app UI here later for extra polish.
 Made with ❤️ by Krushnali Biradar
 GitHub · LinkedIn
 
-⸻
 
-📄 License
-
-MIT License © 2025 Krushnali Biradar
-
----
-
-Let me know when you've added this. I can then help you set a **custom logo**, favicon, or landing banner next!
