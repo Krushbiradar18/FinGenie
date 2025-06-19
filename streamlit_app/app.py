@@ -30,7 +30,7 @@ st.set_page_config(page_title="FinGenie", layout="centered")
 # Sidebar
 with st.sidebar:
     st.title("🤖 FinGenie")
-    st.markdown("Your AI-Powered Portfolio Guide 💼")
+    st.markdown("Your AI-Powered Financial Advisor 💼")
     st.markdown("---")
     st.markdown("🔒 *Demo only. Not financial advice.*")
     st.markdown("Made with ❤️ by Krushnali Biradar")
